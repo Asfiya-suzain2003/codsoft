@@ -1,0 +1,12 @@
+Task 1: CodBot – Simple Python Chatbot
+
+A terminal-based chatbot built using:
+- **Regular Expressions** (for pattern matching)
+- **Colorama** (for styled terminal text)
+- **Typing Effect** (to simulate chatbot feel)
+
+Features:
+- Greets and responds to basic messages like "hi", "how are you", "help", "bye", etc.
+- Case-insensitive matching with regex
+- Typing effect for realistic interaction
+- Handles unknown inputs gracefully
