@@ -1,0 +1,10 @@
+task 2: Tic-tac-toe (codsoft internship project)
+
+Built a smart Tic-Tac-Toe game where the AI plays optimally using the **Minimax algorithm**.  
+Features:
+- Player vs AI mode
+- Smart AI that never loses
+- Move validation and win/draw detection
+- Clean terminal interface
+
+Tech: Python
