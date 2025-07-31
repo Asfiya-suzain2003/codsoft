@@ -1,0 +1,10 @@
+Task 2: Tic-Tac-Toe AI Game
+
+A Python game where you play Tic-Tac-Toe against a smart AI using the **Minimax algorithm**.
+
+ Features:
+- Player vs AI mode
+- AI never loses
+- Validates input and handles errors
+- Announces winner or draw
+
