@@ -10,3 +10,11 @@ Features:
 - Case-insensitive matching with regex
 - Typing effect for realistic interaction
 - Handles unknown inputs gracefully
+
+
+output sample :
+You: hi
+CodBot: Hello! How can I help you today?
+
+You: what is your name
+CodBot: I'm CodBot, your virtual assistant.
